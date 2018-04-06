@@ -1,0 +1,12 @@
+Plots from week beginning 02/04/18
+
+Includes
+> Kinematic distributions for ZHLeptonic with respective differential C1 spectrum
+    > mZH
+    > pTgg
+    
+> Kinematic distributions for ttH(inclusive) with respective differential C1 spectrum
+    > mttH
+    > pTgg
+    
+> Comparing pTgg spectrum of madgraph gen events to flashgg::ZHLeptonicTag on VHTOGG LHC samples
